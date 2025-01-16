@@ -4,6 +4,10 @@
 This project is a wheel of names that can be used for Cru weekly meetings to pick the person for the box or dollar game. It grabs names from a Google sheet with the data from the digital contact cards and puts them into the wheel of names. 
 Note: The application or executable only works on a Windows machine.
 
+## Note
+- Windows only for executable
+- Code is written using Python 3.9.1 and the arcade library version 2.6.17
+
 ## Table of Contents
 - [Usage](#usage)
 - [Installation](#installation)
