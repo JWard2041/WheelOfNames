@@ -31,7 +31,7 @@ Setting Screen:
   - Date:
     - This is how you tell the program what the date is so it knows to grab only the names with the correct date.
     - Once you input the date, then it is good to click the update names button to update the text file with the current names
-    - The date needs to be of the format YYYY-MM-DD (every blank must be filled so if the month is January then it needs to be 01)
+    - The date needs to be of the format YYYY-MM-DD (every blank must be filled so if it is January 2nd, 2025 then it needs to be 2025-01-02)
 
 - Once you have inputted the date and set the speed then you can click play to go to the wheel
 
