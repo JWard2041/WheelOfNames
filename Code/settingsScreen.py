@@ -24,7 +24,7 @@ class SettingsView(arcade.View):
             font_size= min(self.window.width // 65, 24)
         )
         self.target_date = None
-        self.api_url = "https://script.google.com/macros/s/AKfycbyh6YgPkd1BNLfMHB6VCV3XDYrJpZKHKr_xyVv1OEL6eHrBz1sUzuXzHORlC241zNl-aA/exec"
+        self.api_url = "https://script.google.com/macros/s/AKfycbxX4pt9eTWr7yEDzf-vLy0Uyecyaj4U-NiC2dNK6F1OO3LjCrL1Rro5r2PBcJrS4PtMsg/exec"
         self.output_file = resource_path("assets/names/filtered_names.txt")
 
     def on_show(self):
